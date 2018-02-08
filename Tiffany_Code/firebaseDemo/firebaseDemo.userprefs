@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0E6554AF-6851-4607-936E-89C43E4568A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="firebaseDemo/Models/StormTroopers.cs">
+    <Files>
+      <File FileName="firebaseDemo/Views/PageOne.cs" Line="135" Column="1" />
+      <File FileName="firebaseDemo/Models/StormTroopers.cs" Line="9" Column="4" />
+      <File FileName="firebaseDemo/Config/FireBaseClient.cs" Line="32" Column="1" />
+      <File FileName="firebaseDemo/ViewModels/AppViewModel.cs" Line="17" Column="1" />
+      <File FileName="firebaseDemo/Views/PageTwo.cs" Line="16" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.firebaseDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A2EA87C3-1B75-4DBE-B3E5-9A357F0F951B" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tdenkler/Projects/firebaseDemo/firebaseDemo/ViewModels/AppViewModel.cs" relfile="firebaseDemo/ViewModels/AppViewModel.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

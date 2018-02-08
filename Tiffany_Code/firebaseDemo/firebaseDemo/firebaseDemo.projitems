@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{D468FC38-60AF-41C5-B854-D494B5AC58F7}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>firebaseDemo</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)firebaseDemo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PageOne.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\AppViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\StormTroopers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Config\FireBaseClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\ListPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PageTwo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Views\PageTwoCell.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Views\" />
+    <Folder Include="$(MSBuildThisFileDirectory)ViewModels\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Models\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Config\" />
+  </ItemGroup>
+</Project>

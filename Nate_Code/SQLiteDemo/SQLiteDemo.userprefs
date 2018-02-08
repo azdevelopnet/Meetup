@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9C8F8396-951B-40A0-9D54-FC6F697EA828}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteDemo/SQLiteDemo/Config/config.dev.json">
+    <Files>
+      <File FileName="SQLiteDemo/SQLiteDemo/ViewModels/AppViewModel.cs" Line="19" Column="43" />
+      <File FileName="SQLiteDemo/SQLiteDemo/Data/SQLiteData.cs" Line="13" Column="16" />
+      <File FileName="SQLiteDemo/SQLiteDemo/Config/AppSettings.cs" Line="1" Column="1" />
+      <File FileName="SQLiteDemo/SQLiteDemo/Config/config.dev.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SQLiteDemo.Android PreferredExecutionTarget="Android.N424" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

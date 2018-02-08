@@ -1,0 +1,5 @@
+﻿Install the Nuget Couchbase package, not the component (although it looks like the component installs the Nuget package automatically)
+Reference: https://developer.couchbase.com/documentation/mobile/1.4/installation/xamarin/index.html
+
+On Android, I ran into this error and this resolution fixed it:
+https://forums.couchbase.com/t/xamarin-unauthorized-access-to-libsqlite-so/12367 

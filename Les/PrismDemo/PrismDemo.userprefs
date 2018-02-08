@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{51626504-DC47-416C-9760-890D43242DE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrismDemo/PageOneViewModel.cs">
+    <Files>
+      <File FileName="PrismDemo/PrismDemo.cs" Line="32" Column="13" />
+      <File FileName="PrismDemo/PageOneViewModel.cs" Line="13" Column="38" />
+      <File FileName="PrismDemo/PageOne.cs" Line="9" Column="36" />
+      <File FileName="PrismDemo/PageTwo.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrismDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.11E980B5-2AC0-4C25-BBCE-58E696C69621">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.PrismDemo.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
